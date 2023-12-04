@@ -1,2 +1,5 @@
-# make_yourCV_4Dic2023
-Crear tu CV en R
+# Crear tu CV en R
+
+Autor: Evelia Coss
+
+El link al Github de [make_yourCV](https://github.com/EveliaCoss/Make_yourCV)
